@@ -1,0 +1,84 @@
+h5.price {
+    margin-right: auto !important;
+    font-weight: 400 !important;
+}
+
+.nav-link {
+    color: #343a40 !important;
+}
+.nav-link:hover {
+    text-decoration-line: underline; 
+}
+
+.box-shadow {
+    box-shadow: -2px -4px 6px #343a40
+}
+
+.text {
+    padding: 40px;
+    margin: 0 auto;
+    width: 80%;
+}
+
+h1,
+p {
+    text-align: center !important;
+}
+
+h1 {
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+p {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+.container {
+    width: 71%;
+    margin: 0 auto;
+}
+
+h5,
+h3,
+ul.list-unstyled {
+    text-align: center;
+}
+
+h3 {
+    font-size: 45px;
+    font-weight: 500;
+}
+
+span {
+    font-size: 30px;
+    font-weight: 400;
+    color: gray;
+}
+
+.box-shadow {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.footer {
+    margin: 40px 0;
+}
+ul {
+    padding:0;
+}
+.footer li {
+list-style-type: none;
+}
+li a {
+    color: gray;
+}
+small {
+    color: gray;
+}
+
+.logo {
+width: 25px;
+margin-bottom: 5px;
+}
